@@ -25,4 +25,3 @@
     <li><a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" /></a></li>
     <li><a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Script" /></a></li>
     <li><a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a></li>
-    <li><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML-23
