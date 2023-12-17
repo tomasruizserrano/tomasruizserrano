@@ -6,7 +6,6 @@
   </ul>
 </div>
 
-
 <div class="os-card" style="  background-color: #eee;  border: 1px solid #ccc;  padding: 20px;  margin-bottom: 20px;">
   <h3 style="  font-size: 18px;  margin-bottom: 10px;" >Operating Systems</h3>
   <ul>
