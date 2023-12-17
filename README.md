@@ -1,3 +1,41 @@
+<style>
+  .contact-card {
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.contact-card h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.os-card {
+  background-color: #eee;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.os-card h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.tech-card {
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.tech-card h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+</style>
 <div class="contact-card">
   <h3>Contact</h3>
   <ul>
