@@ -1,10 +1,11 @@
-<div class="contact-card" style="background-color: #f5f5f5;  border: 1px solid #ccc;  padding: 20px;  margin-bottom: 20px;">
-  <h3 style="  font-size: 18px;  margin-bottom: 10px;">Contact</h3>
+<div class="contact-card" style="background-color: #f5f5f5; border: 1px solid #ccc; padding: 20px; margin-bottom: 20px;">
+  <h3 style="font-size: 18px; margin-bottom: 10px;">Contact</h3>
   <ul>
     <li><a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a></li>
     <li><a href="https://discord.com/profile/username"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a></li>
   </ul>
 </div>
+
 
 <div class="os-card" style="  background-color: #eee;  border: 1px solid #ccc;  padding: 20px;  margin-bottom: 20px;">
   <h3 style="  font-size: 18px;  margin-bottom: 10px;" >Operating Systems</h3>
