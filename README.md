@@ -81,7 +81,7 @@
   
 </p>
 
-<span align="left">Languajes</span><span align="right">Github Status:</span>
+<p> <h3  align="left"> Languajes  </h3> <h3 align="right">Github Status:</h3></p>
 <p align="center">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasruizserrano&show_icons=true&locale=en&layout=compact" alt="tomasruizserrano" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasruizserrano&show_icons=true&locale=en" alt="tomasruizserrano" />
