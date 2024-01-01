@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/tomas-ruiz-serrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas-ruiz-serrano" height="30" width="40" /></a>
 </p>
 
-
+<h3 align="left">Tech Stack:</h3>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white"/>
   </a>
