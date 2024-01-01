@@ -9,12 +9,14 @@
 </p>
 
 <h3 align="left">Tech Stack:</h3>
+<p align="center">
   <a>
     <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
   </a>
-    <a>
+  <a>
     <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
   </a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
