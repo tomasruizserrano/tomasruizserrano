@@ -7,7 +7,6 @@
   </a>
 </p>
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tomasruizserrano&label=Profile%20views&color=0e75b6&style=flat" alt="tomasruizserrano" /> </p>
 
 <h3 align="left"><p align="center">Contact:</p></h3>
