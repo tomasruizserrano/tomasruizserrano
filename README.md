@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tomas</h1>
 <h3 align="center">A Junior System Administrator</h3>
 
-
-<p align="center">Achievement badges
+<h3 align="center">Achievement badges</h3>
+<p align="center">
   <a href="https://www.credly.com/badges/7f29016a-2e43-47ff-98ce-a36710fc6cc1/public_url" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"/>
   </a>
