@@ -24,6 +24,19 @@
   </a>
 </p>
 
+<h3 align="left"><p align="center">Cibersecurity Tools stack:</p></h3>
+<p align="center">
+  <a>
+    <img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/-VirusTotal-%23394EFF?style=for-the-badge&logo=virustotal&logoColor=white"/>
+  </a>
+    <a>
+    <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  </a>
+</p>
+
 <h3 align="left"><p align="center">My current Tech Stack:</p></h3>
 <p align="center">
   <a>
