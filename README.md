@@ -4,8 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tomasruizserrano&label=Profile%20views&color=0e75b6&style=flat" alt="tomasruizserrano" /> </p>
 
 <h3 align="left"><p align="center">Contact:</p></h3>
-<p align="left">
-<a href="https://linkedin.com/in/tomas-ruiz-serrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas-ruiz-serrano" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/tomas-ruiz-serrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas-ruiz-serrano" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"><p align="center">Operating Systems I used:</p></h3>
