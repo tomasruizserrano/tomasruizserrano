@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<h3 align="left">Tech Stack:</h3>
+<h3 align="left">My current Tech Stack:</h3>
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
