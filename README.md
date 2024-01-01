@@ -8,6 +8,8 @@
 <a href="https://linkedin.com/in/tomas-ruiz-serrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas-ruiz-serrano" height="30" width="40" /></a>
 </p>
 
+	![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
