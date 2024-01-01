@@ -75,6 +75,10 @@
   <a>
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>
   </a>
+  <a>
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+  
 </p>
 
 <h3 align="left">Github Status:</h3>
