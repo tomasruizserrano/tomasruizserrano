@@ -31,7 +31,7 @@
   </a>
 </p>
 
-<h3 align="left"><p align="center">Cibersecurity Tools stack:</p></h3>
+<h3 align="left"><p align="center">Some of cibersecurity Tools i use:</p></h3>
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
