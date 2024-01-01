@@ -64,7 +64,7 @@
   </a>
 </p>
 
-<h3 align="left">Currently Learning:</h3>
+<h3 align="center">Currently Learning:</h3>
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>
