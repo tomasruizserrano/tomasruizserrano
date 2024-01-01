@@ -86,6 +86,6 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasruizserrano&show_icons=true&locale=en&layout=compact" alt="tomasruizserrano" />
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasruizserrano&show_icons=true&locale=en" alt="tomasruizserrano" />
 
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?tomasruizserrano=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tomasruizserrano)](https://github.com/anuraghazra/github-readme-stats)
 </p> 
 
