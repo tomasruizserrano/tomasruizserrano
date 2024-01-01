@@ -11,7 +11,7 @@
 <h3 align="left">Tech Stack:</h3>
 <p align="center">
   <a>
-    <img src=""/>
+    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   </a>
   <a>
     <img src=""/>
@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   </a>
   <a>
-    <img src=""/>
+    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
