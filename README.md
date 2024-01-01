@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/tomas-ruiz-serrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas-ruiz-serrano" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">OS I used:</h3>
+<h3 align="left"><p align="center">Operating Systems I usedk:</p></h3>
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
