@@ -55,4 +55,134 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasruizserrano&show_icons=true&locale=en&layout=compact" alt="tomasruizserrano" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasruizserrano&show_icons=true&locale=en" alt="tomasruizserrano" /></p>
+------------------
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tomas's Profile</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f2f2f2;
+      margin: 0;
+      padding: 0;
+    }
+
+    h1, h3 {
+      color: #333;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    .profile-section {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      margin: 20px;
+      border-radius: 10px;
+    }
+
+    .social-links {
+      margin-top: 10px;
+    }
+
+    .languages-section {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      margin-top: 20px;
+    }
+
+    .language-card {
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      margin: 10px;
+      overflow: hidden;
+      transition: transform 0.3s ease-in-out;
+    }
+
+    .language-card:hover {
+      transform: scale(1.05);
+    }
+
+    .language-img {
+      width: 100%;
+      height: auto;
+      border-bottom: 1px solid #eee;
+    }
+
+    .language-description {
+      padding: 10px;
+      text-align: center;
+    }
+
+    .stats-section {
+      display: flex;
+      justify-content: space-around;
+      margin-top: 20px;
+    }
+
+    .stats-card {
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      margin: 10px;
+      overflow: hidden;
+      transition: transform 0.3s ease-in-out;
+    }
+
+    .stats-card:hover {
+      transform: scale(1.05);
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Hi 👋, I'm Tomas</h1>
+  <h3>A Junior System Administrator</h3>
+
+  <div class="profile-section">
+    <p><img src="https://komarev.com/ghpvc/?username=tomasruizserrano&label=Profile%20views&color=0e75b6&style=flat" alt="tomasruizserrano" /></p>
+
+    <h3>Connect with me:</h3>
+    <div class="social-links">
+      <a href="https://linkedin.com/in/tomas-ruiz-serrano" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas-ruiz-serrano" height="30" width="40" />
+      </a>
+    </div>
+  </div>
+
+  <h3>Languages and Tools:</h3>
+  <div class="languages-section">
+    <!-- Repeat the following code block for each language/tool -->
+    <div class="language-card">
+      <img class="language-img" src="IMAGE_URL" alt="Language Name" />
+      <div class="language-description">
+        <p>Short description about the language/tool.</p>
+      </div>
+    </div>
+    <!-- End of code block -->
+  </div>
+
+  <div class="stats-section">
+    <div class="stats-card">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasruizserrano&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </div>
+    <div class="stats-card">
+      <img src="https://github-readme-stats.vercel.app/api?username=tomasruizserrano&show_icons=true&locale=en" alt="GitHub Stats" />
+    </div>
+  </div>
+
+</body>
+</html>
 
